@@ -1,0 +1,31 @@
+birth_cty,name,modern_name,latitude,longitude,birth_prv,num_emperors
+Alba,['Pertinax'],Alba,44.7,8.05,Italia,1
+Antitum,"['Caligula', 'Nero']",Antrodoco,42.3352,13.0075,Italia,2
+Arca Caesarea,['Severus Alexander'],Arcisate,45.7757,8.9257,Syria,1
+Arelate,['Constantine II'],Arles,43.6767,4.63,Gallia Narbonensis,1
+Budalia,['Trajan Decius'],Unknown,35.3934,18.211,Pannonia Inferior,1
+Cauca,['Theodosius I'],Coca,41.3152,-4.0319,Hispania,1
+Cibalae,"['Valentinian I', 'Valens']",Vinkovci,45.2886,18.8058,Pannonia,2
+Constantinople,['Julian'],Istanbul,41.0082,28.9769,Thrace,1
+Dardania,['Constantius I'],Našice,45.4877,18.0864,Moesia,1
+Emesa,['Elagabalus'],Homs,34.7278,36.7153,Syria,1
+Falacrine,['Vespasian'],Falerone,43.1255,13.3475,Italia,1
+Felix Romuliana,['Lucinius I'],Gamzigrad,43.8862,22.1742,Moesia Superior,1
+Interamna Nahars,['Tacitus'],Terni,42.5675,12.6461,Italia,1
+Iol Caesarea,['Macrinus'],Unknown,35.3934,18.211,Mauretania,1
+Italica,"['Trajan', 'Hadrian']",Santiponce,37.407,-6.0511,Hispania Baetica,2
+Lanuvium,"['Antonius Pius', 'Commodus']",Lanuvio,41.7069,12.7737,Italia,2
+Leptis Magna,['Septimus Severus'],Khoms,32.6585,14.2619,Libya,1
+Lugdunum,"['Claudius', 'Caracalla']",Lyon,45.764,4.8357,Gallia Lugdunensis,2
+Milan,"['Didius Julianus', 'Valentinian II']",Milan,45.4642,9.19,Italia,2
+Naissus,['Constantine the Great'],Niš,43.3194,21.8958,Moesia Superior,1
+Narbo,['Carus'],Narbonne,43.1833,3.0031,Gallia Narbonensis,1
+Narni,['Nerva'],Narni,42.5167,12.5167,Italia,1
+Rome,"['Augustus', 'Tiberius', 'Vitellius', 'Titus', 'Domitian', 'Marcus Aurelius', 'Lucius Verus', 'Geta', 'Gordian III']",Rome,41.9028,12.4964,Italia,9
+Romuliana,['Galerius'],Gamzigrad,43.8862,22.1742,Moesia Superior,1
+Salona,['Diocletian'],Solin,43.5511,16.4622,Dalmatian,1
+Shahba,['Philip I'],Shahba,32.8892,36.6889,Syria,1
+Singidunum,['Jovian'],Belgrade,44.7866,20.4651,Moesia,1
+Sirmium,"['Hostilian', 'Claudius Gothicus', 'Quintillus', 'Aurelian', 'Probus', 'Maximian', 'Consantius II', 'Gratian']",Sremska Mitrovica,44.9783,19.6094,Pannonia,8
+Terentinum,['Otho'],Terento,46.8199,11.8578,Italia,1
+Terracina,['Galba'],Terracina,41.2884,13.2527,Italia,1
